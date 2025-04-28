@@ -1,0 +1,4 @@
+airflow-dbt
+boto3
+pandas
+faker
